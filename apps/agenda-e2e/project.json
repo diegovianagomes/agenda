@@ -1,0 +1,9 @@
+{
+  "name": "agenda-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/agenda-e2e/src",
+  "implicitDependencies": ["agenda"],
+  "// targets": "to see all targets run: nx show project agenda-e2e --web",
+  "targets": {}
+}
